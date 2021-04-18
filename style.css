@@ -1,0 +1,30 @@
+p.title
+{
+    color: rgb(255, 0, 0);
+    font-family: arial;
+    font-size: 22pt;
+    background-color:rebeccapurple;
+    color:white;
+}
+p
+{
+    font-size: 16pt;
+    background-color:rebeccapurple;
+    color:white;
+}
+body{
+  
+    background-image: url(doge.jpg); background-size: 100%;
+    background-repeat: no-repeat; background-attachment: fixed;
+}
+a
+{
+    font-size: 16pt;
+    background-color: gold;
+    color: black;
+}
+a:hover
+{
+ background-color: black;
+ color: white
+}
